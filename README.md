@@ -2,7 +2,7 @@
 Netflix account checker
 A simple Python Script for check a list of accounts in txt file.<br>
 The script check one by one email and passwords. <br>
-Accounts works will be displayed in a txt file called good.txt.<br>
+Accounts works will be displayed in a txt file called worksAcc.txt.<br>
 
 ## Install mechanize
 using pip: `pip install mechanize`. <br>
